@@ -130,7 +130,7 @@ class AnasayfaFragment : Fragment() {
         }
         binding.buttonAC.setOnClickListener {
 
-            textEdit("")
+            textEdit("0")
         }
 
 
