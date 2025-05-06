@@ -66,7 +66,8 @@ Bu proje sayesinde:
 
 ## 🖼️ Ekran Görüntüsü
 
-> 📸 Henüz bir ekran görüntüsü eklenmedi. Uygulamanın görsel çıktısını buraya ekleyerek projenin daha dikkat çekici olmasını sağlayabilirsin.
+![Uygulama Ekran Görüntüsü](Screenshot.png)
+
 
 ## 👤 Geliştirici
 

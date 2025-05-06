@@ -64,9 +64,7 @@ By reviewing this project, you'll gain experience in:
 - Persisting state with SharedPreferences
 
 ## 🖼️ Screenshots
-
-> 📸 No screenshots yet. You can add screenshots of the app to make the project more appealing.
-
+![App Screenshot](Screenshot.png)
 ## 👤 Developer
 
 **Emrullah Enis Çetinkaya**  
