@@ -40,7 +40,7 @@ To run the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/emrullah-enis-ctnky/hesapmakinesi-demo.git
+   git clone https://github.com/emrullah-enis-ctnky/CalculatorAppAssignment.git
    ```
 2. Open the project in Android Studio.
 3. Ensure all SDKs and dependencies are installed.

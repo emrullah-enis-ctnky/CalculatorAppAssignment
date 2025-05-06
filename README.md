@@ -40,7 +40,7 @@ Projeyi kendi bilgisayarında çalıştırmak için:
 
 1. Bu repoyu klonla:
    ```bash
-   git clone https://github.com/emrullah-enis-ctnky/hesapmakinesi-demo.git
+   git clone https://github.com/emrullah-enis-ctnky/CalculatorAppAssignment.git
    ```
 2. Android Studio ile projeyi aç.
 3. Gerekli SDK ve bağımlılıkların yüklendiğinden emin ol.
